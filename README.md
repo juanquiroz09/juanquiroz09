@@ -15,5 +15,4 @@
 2. [Proyecto 2](https://github.com/tu_usuario/proyecto2) - Breve descripción.
 
 ### 🌐 Encuéntrame en:
-- [LinkedIn](https://linkedin.com/in/tu-perfil)
-- [Twitter](https://twitter.com/tu-usuario)
+- [LinkedIn](https://linkedin.com/in/juan-quiroz-b11732229)
